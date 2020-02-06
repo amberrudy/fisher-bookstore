@@ -1,9 +1,9 @@
 import React from "react";
-import "./Home.css";
+import "./Books.css";
 
-export default function Home() {
+export default function Books() {
     return (
-        <div className = "Home">
+        <div className = "Books">
             <div className = "lander">
                 <h1>Home</h1>
                 <p>Welcome to Fisher Bookstore.</p>
